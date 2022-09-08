@@ -1,0 +1,67 @@
+*.pyc
+interim_files/*
+mapscache/*
+env/*
+venv/*
+archive/
+datasets_h5/*
+datasets_h5/
+check_files/
+check_files/*
+formatted/
+summary_tf/*
+summary_tf/
+tensorboard_f
+tensorboard_f/*
+files/
+files/*
+*.pyc
+*.json
+__pycache__/
+__pycache__/*
+__pycache__  
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode/
+.vscode/
+*.py[cod]
+*$py.class
+.idea/
+# C extensions
+*.so
+*.avi
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+*.npz
+checkpoint.*
+*.zip
+media/
+collect_data_*
+avntk.py
+project_folder/model_save/*
+project_folder/checkpoint/*
+*.h5
+checkpoint
